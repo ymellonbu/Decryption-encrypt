@@ -1,5 +1,5 @@
 # EN - This is a virus that encrypts your files. It is not for fun.  
-# Contact: inquiry-ymellonbu@gmail.com
+# Contact: inquiry- ymellonbu@gmail.com
 
 # KO - 이 파일은 사용자의 데이터를 암호화하는 바이러스입니다. 장난용이 아닙니다.  
 # 문의: ymellonbu@gmail.com
